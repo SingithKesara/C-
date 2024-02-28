@@ -1,0 +1,11 @@
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\bin\Debug\TheCalc-26112.exe.config
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\bin\Debug\TheCalc-26112.exe
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\bin\Debug\TheCalc-26112.pdb
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.csproj.AssemblyReference.cache
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc_26112.Form1.resources
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc_26112.Properties.Resources.resources
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.csproj.GenerateResource.cache
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.csproj.CoreCompileInputs.cache
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.exe
+C:\Users\LAB-103\source\repos\TheCalc-26112\TheCalc-26112\obj\Debug\TheCalc-26112.pdb
